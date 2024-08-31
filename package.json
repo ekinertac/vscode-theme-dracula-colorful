@@ -1,0 +1,21 @@
+{
+  "name": "jetbrains-dracula-colorful",
+  "displayName": "Jetbrains Dracula Colorful",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JetBrains Dracula Colorful",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetBrains Dracula Colorful-color-theme.json"
+      }
+    ]
+  }
+}
