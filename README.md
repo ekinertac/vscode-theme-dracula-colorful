@@ -2,7 +2,7 @@
 
 ## Installation
 
-	git clone https://github.com/ekinertac/vscode-theme-dracula-colorful ~/.vscode/extensions/
+	git clone git@github.com:ekinertac/vscode-theme-dracula-colorful.git ~/.vscode/extensions/vscode-theme-dracula-colorful
 
 	# Restart VSCode and select the theme from the settings
 
